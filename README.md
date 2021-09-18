@@ -1,9 +1,9 @@
-# JupyterNotebookDiamondAnalysis
-Jupyter Notebook과 Python을 이용하여 seaborn에서 기본으로 제공하는 diamonds dataset 분석하기
+# ColabkDiamondAnalysis
+colab과 Python을 이용하여 seaborn에서 기본으로 제공하는 diamonds dataset 분석하기
 
 ## 💻 기술 스택
 
-- Jupyter Notebook
+- colab
 - python
 - seaborn
 - matplotlib
