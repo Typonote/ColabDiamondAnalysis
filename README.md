@@ -26,6 +26,11 @@ https://www2.stat.duke.edu/courses/Fall15/sta112.01/post/hw/HW1.html
 - table: 가장 넓은 부분의 너비 대비 다이아몬드 꼭대기의 너비(43- 95)<br>
 
 
+## 📄 예시
+
+<img width="723" alt="diamond_result" src="https://user-images.githubusercontent.com/81430564/133889129-0d11c10f-e3da-4075-b849-a3c674dfe567.PNG">
+
+
 ## 🌲 디렉토리 구조
 
 ```
